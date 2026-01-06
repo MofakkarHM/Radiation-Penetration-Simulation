@@ -8,7 +8,7 @@ A Computer Graphics project developed using C++ and OpenGL (GLUT). This applicat
 
 This tool offers a real-time, hands-on simulation to understand how different types of radiation interact with matter. It visualizes the sinusoidal motion of radiation particles and demonstrates their ability (or inability) to penetrate specific barriers.
 
-📄 **[Read the Full Project Report](docs/Project Report of Computer Graphics.docx)**
+📄 **[Read the Full Project Report](docs/projectReport.pdf)**
 
 ---
 
